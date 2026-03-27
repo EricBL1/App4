@@ -6,7 +6,5 @@ public abstract class Composant {
 
     }
 
-    public double calculerResistance(){
-
-    }
+    public abstract double calculerResistance();
 }
